@@ -23,4 +23,4 @@ asterisk -r
 manager reload
 exit
 ```
-5. 
+5. Open `https://issabel_IP_Address/callgen.php`
