@@ -27,4 +27,6 @@ exit
 
 | issabel IP Address  | AMI UserName | AMI Secret | Caller with prefix | Callee with prefix | SIP Trunk Name |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| 192.168.1.10 | test  | 123456 | 90912XXXXX | 90935XXXXX | TCI
+| 192.168.1.10 | test  | 123456 | 90912XXXXX | 90935XXXXX | TCI |
+
+> Trunk name is `TCI` and has a `9` as prefix
