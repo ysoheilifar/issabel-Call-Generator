@@ -25,15 +25,6 @@ exit
 ```
 5. Open `https://issabel_IP_Address/callgen.php` and fill like this:
 
-> issabel IP Address : 192.168.1.10
-
-> AMI UserName : test
-
-> AMI Secret : 123456
-
-> Caller with prefix : 90912XXXXX
-
-> Callee with prefix : 90935XXXXX
-
-> SIP Trunk Name : TCI
-
+| issabel IP Address  | AMI UserName | AMI Secret | Caller with prefix | Callee with prefix | SIP Trunk Name |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 192.168.1.10 | test  | 123456 | 90912XXXXX | 90935XXXXX | TCI
