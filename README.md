@@ -23,8 +23,8 @@ asterisk -r
 manager reload
 exit
 ```
-5. Open `https://issabel_IP_Address/callgen.php`
-fill like this:
+5. Open `https://issabel_IP_Address/callgen.php` and fill like this:
+
 > issabel IP Address : 192.168.1.10
 
 > AMI UserName : test
