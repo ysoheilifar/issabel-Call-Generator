@@ -1,7 +1,7 @@
 # issabel Call Generator
 issabel Call Generator from Web with AMI Programming
 
-<img src="ZarbinNetwork.jpg">
+<img src="ZarbinNetwork.JPG">
 
 1. Copy all downloaded file in `/var/www/html` directory on issabel
 2. Set `775` or `777` permission to `callgen.php`
